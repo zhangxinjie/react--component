@@ -1,0 +1,19 @@
+{
+  "name": "react-component",
+  "version": "1.0.0",
+  "description": "react + redux +  react router + webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangxinjie/react-component.git"
+  },
+  "author": "xinjiez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangxinjie/react-component/issues"
+  },
+  "homepage": "https://github.com/zhangxinjie/react-component#readme"
+}
